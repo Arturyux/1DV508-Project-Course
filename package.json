@@ -1,0 +1,7 @@
+{
+  "scripts": {
+      "build": "gradlew build",
+      "test": "gradlew test",
+      "dev": "gradlew run -q --console=plain"
+  }
+}
